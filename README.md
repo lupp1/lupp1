@@ -1,11 +1,12 @@
 <!--    Headings    -->
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
+## Hi there, i'm **lupp1!** :wave: 
+___
+### **I'm a CS student at UFABC - Universidade Federal do ABC, runner, beginner developer and passionate about mathematics!**
+
+<!-- #### Heading 4
 ##### Heading 5
-###### Heading 6
+###### Heading 6 -->
 
 <!--    Italics     -->
 *This text is italic*
@@ -66,3 +67,5 @@ class myMethod:
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
+
