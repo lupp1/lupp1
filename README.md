@@ -2,7 +2,12 @@
 
 ## Hi there, i'm **lupp1!** :wave: 
 ___
-### **I'm a CS student at UFABC - Universidade Federal do ABC, runner, beginner developer and passionate about mathematics!**
+### **I'm a CS student at UFABC, runner, beginner developer and passionate about mathematics!**
+
+* I'm currently learning Flask and HTML :books:
+* I'm currently working on a research about the [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) and [Julia sets](https://en.wikipedia.org/wiki/Julia_set) :pen: :nerd_face: 
+* I like to run and workout a lot :runner: :weight_lifting:
+
 
 <!-- #### Heading 4
 ##### Heading 5
