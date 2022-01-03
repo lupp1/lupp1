@@ -4,8 +4,8 @@
 ___
 ### **I'm a CS student at UFABC, runner, beginner developer and passionate about mathematics!**
 
-* I'm currently learning Flask and HTML :books: :pencil: 
-* I'm currently working on a research about the [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) and [Julia sets](https://en.wikipedia.org/wiki/Julia_set) :pen: :nerd_face: 
+* I'm currently learning Flask and HTML :seedling:  
+* I'm currently working on a research about the [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) and [Julia sets](https://en.wikipedia.org/wiki/Julia_set) :books:
 * I like to run and workout a lot :runner: :weight_lifting:
 
 [![lupp1's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupp1)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lupp1)](https://github.com/anuraghazra/github-readme-stats)
