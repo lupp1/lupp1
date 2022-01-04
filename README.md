@@ -2,7 +2,7 @@
 
 ## Hi there, I'm **lupp1!** :wave: 
 ___
-### **I'm a CS student at UFABC, runner, beginner developer and passionate about mathematics!**
+### **I'm a CS student, runner, beginner developer and passionate about mathematics!**
 
 * I'm currently learning Flask and HTML :seedling:  
 * Looking to contribute in open-source projects! :open_hands:
