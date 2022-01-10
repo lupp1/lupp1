@@ -13,12 +13,12 @@ ___
 
 #### **Languages and tools**
 
-<img align="left" alt="Python" width="50px" src="https://www.marinedatascience.co/img/software/logo_python.png" />
+<img align="left" alt="Python" width="45px" src="https://www.marinedatascience.co/img/software/logo_python.png" />
 
-<img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="HTML" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 
-<img align="left" alt="Django" width="50px" src="https://nextsoftware.io/files/images/logos/main/django-logo.png" />
+<img align="left" alt="Django" width="45px" src="https://nextsoftware.io/files/images/logos/main/django-logo.png" />
 
-<img align="left" alt="Postman" width="50px" src="https://img4.orsoon.com:8901/ico/202105/14080132_d1f510076a.png" />
+<img align="left" alt="Postman" width="45px" src="https://img4.orsoon.com:8901/ico/202105/14080132_d1f510076a.png" />
 
-<img align="left" alt="Git" width="50px" src="https://orion42.net/wp-content/uploads/2019/05/git-logo.png" />
+<img align="left" alt="Git" width="45px" src="https://orion42.net/wp-content/uploads/2019/05/git-logo.png" />
