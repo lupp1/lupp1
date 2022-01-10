@@ -15,11 +15,9 @@ ___
 
 <img align="left" alt="Python" width="26px" src="https://www.marinedatascience.co/img/software/logo_python.png" />
 
-<img align="left" alt="Flask" width="26px" src="https://camo.githubusercontent.com/cb2324a4c0e1910089f481d56e1f887d6e96114101987dfbb6ef6f9df1e0bf08/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f636f6f5f666c61736b2f706f636f6f5f666c61736b2d69636f6e2e737667" />
-
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 
-<img align="left" alt="Django" width="26px" src="https://nextsoftware.io/files/images/logos/main/django-logo.png" />
+<img align="left" alt="Django" width="30px" src="https://nextsoftware.io/files/images/logos/main/django-logo.png" />
 
 <img align="left" alt="Postman" width="26px" src="https://img4.orsoon.com:8901/ico/202105/14080132_d1f510076a.png" />
 
