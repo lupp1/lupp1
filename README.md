@@ -21,4 +21,4 @@ ___
 
 <img align="left" alt="Postman" width="30px" src="https://img4.orsoon.com:8901/ico/202105/14080132_d1f510076a.png" />
 
-<img align="left" alt="Git" width="30px" src="https://orion42.net/wp-content/uploads/2019/05/git-logo.png" />
+<img align="left" alt="Git" width="30px" src="https://hackthestuff.com/uploads/subCategories/logo-git.png" />
