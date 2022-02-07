@@ -4,7 +4,7 @@
 ___
 ### **I'm a CS student, runner, beginner developer and passionate about mathematics!**
 
-* I'm currently learning SQL, Pandas :seedling:  
+* I'm currently learning SQL and Pandas :seedling:  
 * Looking to contribute in open-source projects! :open_hands:
 * I'm currently working on a research about the [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) and [Julia sets](https://en.wikipedia.org/wiki/Julia_set) :books:
 * I like to run and workout a lot :runner: :weight_lifting:
