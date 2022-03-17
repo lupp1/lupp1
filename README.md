@@ -4,10 +4,10 @@
 ___
 ### **I'm a CS student, runner, beginner developer and passionate about mathematics!**
 
-* I'm currently learning Pandas and looking forward to improve my knowledge in general statistics :seedling:  
-* Looking to contribute in open-source projects! :open_hands:
-* I'm currently working on a research about the [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) and [Julia sets](https://en.wikipedia.org/wiki/Julia_set) :books:
-* I like to run and workout a lot :runner: :weight_lifting:
+* I'm currently learning MySQL, Flask and improving my general skills with Python :seedling:  
+* Looking to contribute in open-source projects in the year of 2022! :open_hands:
+* Also, currently working on a research about the [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) and [Julia sets](https://en.wikipedia.org/wiki/Julia_set) :books:
+* I enjoy working out, specially bodyweight exercises :runner: :weight_lifting:
 
 [![lupp1's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupp1)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lupp1)](https://github.com/anuraghazra/github-readme-stats)
 
