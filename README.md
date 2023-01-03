@@ -2,9 +2,9 @@
 
 ## Hi there, I'm **lupp1!** :wave: 
 ___
-### **I'm a CS student, runner, beginner data scientist and passionate about mathematics!**
+### **I'm a CS student, beginner data scientist, p!**
 
-* I'm currently learning SQL and Pandas :seedling:  
+* I'm currently Pandas :seedling:  
 * In mathematics, I've been improving my skills in Linear Algebra, as well as looking forward to learn Statistics applied to Data Analysis :books:
 * And I enjoy working out and studying mathematics as a whole :weight_lifting:
 
