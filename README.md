@@ -1,11 +1,14 @@
 <!--    Headings    -->
 
-## Hi there, I'm **lupp1!** :wave: 
+## Hi there, I'm **lupp1! (or Gustavo)**  :wave: 
 ___
-### **I'm a CS student, beginner data scientist, p!**
+### **I'm a CS student and beginner data scientist.**
 
-* I'm currently Pandas :seedling:  
-* In mathematics, I've been improving my skills in Linear Algebra, as well as looking forward to learn Statistics applied to Data Analysis :books:
+* I'm currently learning :seedling: :
+* Pandas (from the book Python for Data Analysis) :panda_face: 
+* Statistics (from the book Fundamentals of Probability with Stochastic Processes) :bar_chart:
+* Linear Algebra (from the book Linear Algebra - Georgiy Shilov) :jigsaw:
+* Excel (from the IBM Course - Basics of Excel for Data Analysis):chart_with_upwards_trend:
 * And I enjoy working out and studying mathematics as a whole :weight_lifting:
 
 [![lupp1's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupp1)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lupp1)](https://github.com/anuraghazra/github-readme-stats)
