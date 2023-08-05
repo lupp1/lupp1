@@ -7,7 +7,7 @@ ___
 * I'm currently learning :seedling:
 * PowerBI (Escola Virtual Fundação Bradesco)
 * Python para análise de dados (Data Science Academy)
-* 
+
 [![lupp1's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupp1)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lupp1)](https://github.com/anuraghazra/github-readme-stats)
 
 #### **Languages and tools**
