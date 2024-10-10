@@ -16,13 +16,8 @@ ___
 
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 
-<img align="left" alt="Postman" width="30px" src="https://img4.orsoon.com:8901/ico/202105/14080132_d1f510076a.png" />
-
-<img align="left" alt="Git" width="30px" src="https://hackthestuff.com/uploads/subCategories/logo-git.png" />
-
 <img align="left" alt="Pandas" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" />
 
 <img align="left" alt="Numpy" width="30px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
-
 
 <img align="left" alt="Matplotlib" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" />
