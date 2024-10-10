@@ -2,11 +2,11 @@
 
 ## Hi there, I'm **lupp1! (or Gustavo)**  :wave: 
 ___
-### **I'm a CS student and aspiring data analyst.**
+### **I'm a very passionate Mathematics student and aspiring to be a Data Analyst, currently working with Risk Management.**
 
-* I'm currently learning :seedling:
-* PowerBI (Escola Virtual Fundação Bradesco)
-* Python para análise de dados (Data Science Academy)
+## What I've been up to: 
+* I've been improving my skills in **Power BI** through developing a project for Risk Management;
+* Working with **Pandas**, **Numpy**, **Matplotlib** and **Seaborn** to load, analyze and draw insights from various dataframes;
 
 [![lupp1's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupp1)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lupp1)](https://github.com/anuraghazra/github-readme-stats)
 
